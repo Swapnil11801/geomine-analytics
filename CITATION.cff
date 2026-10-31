@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "GeoMine Analytics: site-versus-control Landsat analysis of mining-induced vegetation change"
+authors:
+  - family-names: Ray
+    given-names: Swapnil
+version: 0.2.0
+date-released: 2026-11-01
+license: MIT
+repository-code: "https://github.com/Swapnil11801/geomine-analytics"
+url: "https://swapnil11801.github.io/geomine-analytics/"
+keywords:
+  - remote sensing
+  - mining
+  - Landsat
+  - NDVI
+  - Mann-Kendall
+  - Google Earth Engine

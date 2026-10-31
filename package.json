@@ -1,0 +1,13 @@
+{
+  "name": "geomine-analytics",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Site-versus-control Landsat analysis of mining-induced vegetation change",
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "dev:server": "cd server && python -m uvicorn main:app --reload --port 8000",
+    "build": "cd client && npm run build",
+    "lint": "cd client && npm run lint",
+    "test": "cd server && python -m pytest -q tests"
+  }
+}
