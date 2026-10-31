@@ -7,7 +7,8 @@ GeoMine Analytics measures 35 years of vegetation change (Landsat, 1990–2024) 
 a control ring around it and with placebo sites where there is no mine.
 
 🌍 **Demo:** https://swapnil11801.github.io/geomine-analytics/ (precomputed case studies, no setup needed) &nbsp;·&nbsp;
-📄 **Paper:** [RESEARCH.md](RESEARCH.md)
+📄 **Paper:** [RESEARCH.md](RESEARCH.md) &nbsp;·&nbsp;
+📘 **User manual:** [docs/USER_MANUAL.md](docs/USER_MANUAL.md)
 
 <!-- RESULTS -->
 ## Results (1990–2024)
@@ -94,6 +95,7 @@ research/
   run_case_studies.py    case studies, placebo sites, cross-sensor and threshold checks
   make_report.py         writes RESEARCH.md from results/case_studies.json
   results/, figures/     outputs
+docs/USER_MANUAL.md      how to use the dashboard, read the results and reproduce the research
 ```
 
 ## Data sources
